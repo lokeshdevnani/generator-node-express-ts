@@ -1,4 +1,5 @@
-# generator-node-express-ts [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-node-express-ts
+[![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Starter Seed for Node.js, express.js, gulp.js, pug using Typescript 2.x with TSlint and Typings.
 
 ## Installation
@@ -29,8 +30,8 @@ Apache-2.0 © [Lokesh Devnani](https://lokeshd.com)
 
 
 [npm-image]: https://badge.fury.io/js/generator-node-express-ts.svg
-[npm-url]: https://npmjs.org/package/generator-node-express-ts?v=0.1.0
+[npm-url]: https://npmjs.org/package/generator-node-express-ts
 [travis-image]: https://travis-ci.org/lokeshthegenius/generator-node-express-ts.svg?branch=master
 [travis-url]: https://travis-ci.org/lokeshthegenius/generator-node-express-ts
 [daviddm-image]: https://david-dm.org/lokeshthegenius/generator-node-express-ts.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/lokeshthegenius/generator-node-express-ts?v=0.1.0
+[daviddm-url]: https://david-dm.org/lokeshthegenius/generator-node-express-ts
