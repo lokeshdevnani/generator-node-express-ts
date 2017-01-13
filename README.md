@@ -1,4 +1,5 @@
-# generator-node-express-ts [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-node-express-ts
+[![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Starter Seed for Node.js, express.js, gulp.js, pug using Typescript 2.x with TSlint and Typings.
 
 ## Installation
