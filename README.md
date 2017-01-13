@@ -29,8 +29,8 @@ Apache-2.0 © [Lokesh Devnani](https://lokeshd.com)
 
 
 [npm-image]: https://badge.fury.io/js/generator-node-express-ts.svg
-[npm-url]: https://npmjs.org/package/generator-node-express-ts
+[npm-url]: https://npmjs.org/package/generator-node-express-ts?v=0.1.0
 [travis-image]: https://travis-ci.org/lokeshthegenius/generator-node-express-ts.svg?branch=master
 [travis-url]: https://travis-ci.org/lokeshthegenius/generator-node-express-ts
 [daviddm-image]: https://david-dm.org/lokeshthegenius/generator-node-express-ts.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/lokeshthegenius/generator-node-express-ts
+[daviddm-url]: https://david-dm.org/lokeshthegenius/generator-node-express-ts?v=0.1.0
