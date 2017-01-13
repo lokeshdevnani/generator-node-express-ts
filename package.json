@@ -1,6 +1,6 @@
 {
   "name": "generator-node-express-ts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Starter Seed for Node.js, express.js, gulp.js, pug using Typescript 2.x with TSlint and Typings.",
   "homepage": "https://github.com/lokeshthegenius/express-typescript-gulp-seed",
   "author": {
