@@ -1,4 +1,6 @@
 # generator-node-express-ts
+
+[![Join the chat at https://gitter.im/generator-node-express-ts/Lobby](https://badges.gitter.im/generator-node-express-ts/Lobby.svg)](https://gitter.im/generator-node-express-ts/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Perfectly configured yeoman generator for Node.js, express.js, gulp.js, pug using Typescript 2.x with TSlint and Typings.
 
